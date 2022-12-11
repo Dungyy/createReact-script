@@ -10,8 +10,14 @@ Open your terminal of choice and clone the repo
 git clone https://github.com/Dungyy/createReact-script.git
 ```
 
-After cloning the github repo you must CD into createReact-script then run the command below
+After cloning the github repo you must CD into createReact-script
 
 ```
-python3 reactApp.py [name of your app]
+cd createReact-script
+```
+
+run the command below
+
+```
+python reactApp.py [name of your app]
 ```
