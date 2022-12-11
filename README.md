@@ -21,3 +21,12 @@ run the command below
 ```
 python reactApp.py [name of your app]
 ```
+After React install it will ask if you want any NPM packages installed if yes type "y" if no then type "n"
+
+```
+y
+```
+
+```
+[package] [package] [package]
+```
