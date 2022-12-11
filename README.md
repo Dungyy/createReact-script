@@ -1,5 +1,5 @@
 # createReact-script
-This is a simple pyton script that creats a react app and deletes unwanted files. Customize the script to your liking. :D 
+This is a simple python script that creates a react app and deletes unwanted files. Customize the script to your liking. :D
 
 
 ### Installing
