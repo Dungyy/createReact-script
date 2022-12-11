@@ -19,5 +19,5 @@ cd createReact-script
 run the command below
 
 ```
-python3 reactApp.py [name of your app]
+python reactApp.py [name of your app]
 ```
